@@ -9,9 +9,15 @@ var x=document.getElementById('login');
 		}
 		function login()
 		{
+			debugger;
 			x.style.left='50px';
 			y.style.left='450px';
 			z.style.left='0px';
+
+		}
+		function navigate()
+		{
+			window.location.replace("hackthon.html")
 		}
 
 

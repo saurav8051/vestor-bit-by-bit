@@ -1,0 +1,19 @@
+::-webkit-input-textarea placeholder { /* Edge */
+    color: red;
+
+  }
+  
+  :-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: red;
+  }
+  
+  ::placeholder {
+    color: red;
+  }
+  .textarea{
+    background-color: brown;
+  }
+ .btn{
+    height: 30%;
+ }
+  
